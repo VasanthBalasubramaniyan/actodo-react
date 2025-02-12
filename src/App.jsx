@@ -4,7 +4,7 @@ import ToDoContainer from "./components/ToDoContainer";
 import { Route, Routes, BrowserRouter } from "react-router-dom";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
-import Landing from "./pages/landing";
+import Landing from "./pages/Landing";
 import { useState } from "react";
 
 function App() {
